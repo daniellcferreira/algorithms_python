@@ -46,7 +46,7 @@ def main():
     nome = input("Digite o nome do aluno que deseja buscar (ou 'sair' para encerrar): ").strip().lower()
 
     if nome == 'sair':
-      print("Encerrando o programa.")
+      print("Encerrando o programa...")
       break
 
     # Realiza a busca binária pelo nome informado
