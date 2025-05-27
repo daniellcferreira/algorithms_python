@@ -1,5 +1,3 @@
-# search/quick_sort_interativo.py
-
 from array import array
 
 def importa_lista(arquivo):
